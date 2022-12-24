@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amon3006
+- 👋 Hi, I’m @Aman3006
 - 👀 I’m interested in Data Science and ML
 - 🌱 I’m currently learning pyhton 
 - 💞️ I’m looking to collaborate on any project related to the skillsets iam currently working on.
